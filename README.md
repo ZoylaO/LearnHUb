@@ -1,7 +1,9 @@
 # LearnHUb
 A learning Environment 
-This is Eric. I am Eric.
 
+Helloooo
+This is Eric. I am Eric.
+it meeee
 using Android.App;
 using Android.Widget;
 using Android.OS;
